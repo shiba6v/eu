@@ -1,2 +1,1 @@
-# eu
-Golang Error Utilities 
+# EU: Go Error Utilities
